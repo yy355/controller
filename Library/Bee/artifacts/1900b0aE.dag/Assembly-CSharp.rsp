@@ -348,6 +348,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Script/CameraFollow.cs"
 "Assets/Script/PlayerController.cs"
+"Assets/Script/PlayerRotate.cs"
 -langversion:9.0
 
 /deterministic
